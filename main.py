@@ -5,7 +5,6 @@ logger = fxstreetlogger.get_logger(__name__)
 
 
 def main():
-    print('message')
     logger.debug("This is my message to the world");
 
 

@@ -1,1 +1,1 @@
-CONFIG_PATH = "config/log.ini"
+CONFIG_PATH = "config/log.yaml"
